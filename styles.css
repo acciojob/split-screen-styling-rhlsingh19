@@ -36,7 +36,7 @@ body {
 }
 
 .article{
-  background-color: #f5f5f5;
+  background-color:white;
   flex: 3 1 0%;
   min-height: 60vh;
   padding: 1em;
